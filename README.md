@@ -1,0 +1,1 @@
+A note for bayesian data analysis and statistical rethinking.
