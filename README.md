@@ -1,7 +1,23 @@
-A note for bayesian data analysis. It is based on Statistical Rethinking by Richard McElreath, and serves as a working mind map for myself, and hopefully for others.
+A note for bayesian data analysis. It is based on Statistical Rethinking by Richard McElreath, and serves as a working mind map for myself, and hopefully for others. It is assumed the readers of this note have gone throught the Statistical Rethinking class at least once.
 
-It is assumed that the users of this note have gone throught the Statistical Rethinking class at least once.
+## Content
+
+- [The Workflow](/notes/workflow.md)
+- [Linear Models](/notes/linear_model.md)
+    - Categorical variables
+    - Interactions
+- [Causal Inference](/notes/causal_inference.md)
+- [Model Comparisons](/notes/model_comparison.md)
+- MCMC
+- GLM
+- Multilevel Models and Covariance
+- Missing Data and Bayesian Imputation
+- Scientific/Theoretical/Causal/Structural Model
+
 
 
 ## Resources
 [Online resources](./notes/online_resources.md)
+
+
+## Referencees
