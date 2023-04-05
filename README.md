@@ -9,7 +9,7 @@ A note for bayesian data analysis. It is based on Statistical Rethinking by Rich
 - [Causal Inference](/notes/causal_inference.md)
 - [Model Comparisons](/notes/model_comparison.md)
 - MCMC
-- [GLM](/notes/generalized_linear_model.md)
+- [Generalized Linear Models](/notes/generalized_linear_model.md)
 - Multilevel Models and Covariance
 - Missing Data and Bayesian Imputation
 - Scientific/Theoretical/Causal/Structural Model
