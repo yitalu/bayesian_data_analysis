@@ -8,7 +8,7 @@ A note for bayesian data analysis. It is based on Statistical Rethinking by Rich
     - Interactions
 - [Causal Inference](/notes/causal_inference.md)
 - [Model Comparisons](/notes/model_comparison.md)
-- MCMC
+- [MCMC](/notes/mcmc.md)
 - [Generalized Linear Models](/notes/generalized_linear_model.md)
 - Multilevel Models and Covariance
 - Missing Data and Bayesian Imputation
