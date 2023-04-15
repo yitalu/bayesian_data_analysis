@@ -1,15 +1,17 @@
+MCMC diagnostics
 
-
-MCMC convergence diagnostic
+MCMC convergence diagnostics
 MCMC diagnostic criteria tells how well the sampling was
 
+[Bayesian Analysis Reporting Guidelines](/references/Bayesian%20Analysis%20Reporting%20Guidelines.pdf)
 
 R-hat:
+also called: potential scale reduction factor (PSRF) (Brooks, S. P. & Gelman, A. General methods for monitoring convergence of iterative simulations. J. Comput. Graph. Stat. 7, 434–455 (1998).)
 
-as total variance shrinks to average variance within chains, r-hat approaches 1.
+as total variance (across chains) shrinks to average variance within chains, r-hat approaches 1.
 
 n_eff:
-
+or effective sample size (ESS), or "effective MCMC length"
 
 
 
