@@ -14,6 +14,7 @@ A note for bayesian data analysis. It is based on Statistical Rethinking by Rich
 - Missing Data and Bayesian Imputation
 - Scientific/Theoretical/Causal/Structural Model
 
+- [Reporting Results of Bayesian Analysis](/notes/reporting_result.md)
 
 
 ## Resources
