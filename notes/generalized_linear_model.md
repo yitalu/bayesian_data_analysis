@@ -25,3 +25,15 @@ The logit link function transform a linear equation into a parameter space betwe
 
 
 ## Binomial regression
+Two types:
+logistic regression
+aggregated binomial regression
+
+Why quadratic approximation fails
+
+
+
+
+## Poisson regression
+
+## Multinomial and categorical models
