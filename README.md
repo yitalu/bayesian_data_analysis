@@ -21,4 +21,4 @@ A note for bayesian data analysis. It is based on Statistical Rethinking by Rich
 [Online resources](./notes/online_resources.md)
 
 
-## Referencees
+## References
