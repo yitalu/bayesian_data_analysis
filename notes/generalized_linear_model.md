@@ -31,6 +31,10 @@ aggregated binomial regression
 
 Why quadratic approximation fails
 
+Comparing non-aggregated and aggregated models
+
+
+Two examples: the prosocial chimpanzee and UCB admission
 
 
 

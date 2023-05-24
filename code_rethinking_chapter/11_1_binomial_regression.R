@@ -59,15 +59,18 @@ precis(m11.4, depth = 2)
 
 post <- extract.samples(m11.4)
 
+
 # Individual tendency to pull left
 p_left <- inv_logit(post$a)
 precis( as.data.frame(p_left) )
 plot( precis( as.data.frame(p_left) ), xlim = c(0, 1))
 
+
 # Treatment effects
 labs <- c("R/N", "L/N", "R/P", "L/P")
 precis( m11.4 , depth=2 , pars="b" )
 plot( precis( m11.4 , depth=2 , pars="b" ) , labels=labs )
+
 
 # See contrasts
 diffs <- list(
@@ -75,4 +78,8 @@ diffs <- list(
   db24 = post$b[,2] - post$b[,4] 
   )
 plot( precis(diffs) )
+
+
+# Posterior prediction check
+
 
